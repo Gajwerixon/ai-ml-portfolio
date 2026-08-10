@@ -24,6 +24,11 @@ Thumbs.db
 **/data/raw/*
 **/data/private/*
 
+# Datasets
+**/data/*.csv
+**/data/*.xlsx
+**/data/*.json
+
 # Trained models
 **/models/*.pt
 **/models/*.pth
