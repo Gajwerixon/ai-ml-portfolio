@@ -10,7 +10,7 @@ The projects are organized progressively, starting with fundamental machine lear
 
 | # | Project | Domain | Main Technologies | Status |
 |:-:|:---|:---|:---|:---:|
-| **01** | Student Score Prediction | Regression | Python, Pandas, Scikit-learn | 🔲 Planned |
+| **01** | Student Score Prediction | Regression | Python, Pandas, Scikit-learn | ✅ Planned |
 | **02** | Titanic Survival Prediction | Classification | Random Forest, XGBoost | 🔲 Planned |
 | **03** | Handwritten Digit Classification | Deep Learning | PyTorch/TensorFlow | 🔲 Planned |
 | **04** | Spam Detection | NLP | TF-IDF, Naive Bayes | 🔲 Planned |
