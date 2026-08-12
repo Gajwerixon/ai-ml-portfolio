@@ -11,7 +11,7 @@ The projects are organized progressively, starting with fundamental machine lear
 | # | Project | Domain | Main Technologies | Status |
 |:-:|:---|:---|:---|:---:|
 | **01** | Student Score Prediction | Regression | Python, Pandas, Scikit-learn | ✅ Completed |
-| **02** | Titanic Survival Prediction | Classification | Random Forest, XGBoost | 🔲 Planned |
+| **02** | Titanic Survival Prediction | Classification | Decision Tree, Random Forest | ✅ Completed |
 | **03** | Handwritten Digit Classification | Deep Learning | PyTorch/TensorFlow | 🔲 Planned |
 | **04** | Spam Detection | NLP | TF-IDF, Naive Bayes | 🔲 Planned |
 | **05** | Weather Image Recognition | Computer Vision | CNN, PyTorch | 🔲 Planned |
@@ -32,7 +32,6 @@ The projects are organized progressively, starting with fundamental machine lear
 
 - Linear Regression & Logistic Regression
 - Decision Trees & Random Forest
-- XGBoost
 - K-Means & HDBSCAN
 - Naive Bayes
 </details>
