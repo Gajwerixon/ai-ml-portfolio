@@ -12,8 +12,8 @@ The projects are organized progressively, starting with fundamental machine lear
 |:-:|:---|:---|:---|:---:|
 | **01** | Student Score Prediction | Regression | Python, Pandas, Scikit-learn | ✅ Completed |
 | **02** | Titanic Survival Prediction | Classification | Decision Tree, Random Forest | ✅ Completed |
-| **03** | Handwritten Digit Classification | Deep Learning | PyTorch/TensorFlow | 🔲 Planned |
-| **04** | Spam Detection | NLP | TF-IDF, Naive Bayes | 🔲 Planned |
+| **03** | Spam Detection | NLP | Naive Bayes | ✅ Completed |
+| **04** | Handwritten Digit Classification | Deep Learning | PyTorch/TensorFlow | 🔲 Planned |
 | **05** | Weather Image Recognition | Computer Vision | CNN, PyTorch | 🔲 Planned |
 | **06** | Customer Segmentation | Clustering | K-Means, HDBSCAN | 🔲 Planned |
 | **07** | Twitter Sentiment Analysis | NLP | Logistic Regression, BERT, RoBERTa | 🔲 Planned |
