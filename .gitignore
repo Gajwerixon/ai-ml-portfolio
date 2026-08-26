@@ -21,8 +21,7 @@ __pycache__/
 Thumbs.db
 
 # Data
-**/data/raw/*
-**/data/private/*
+**/data/
 
 # Datasets
 **/data/*.csv
