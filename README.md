@@ -13,8 +13,8 @@ The projects are organized progressively, starting with fundamental machine lear
 | **01** | Student Score Prediction | Regression | Python, Pandas, Scikit-learn | ✅ Completed |
 | **02** | Titanic Survival Prediction | Classification | Decision Tree, Random Forest | ✅ Completed |
 | **03** | Spam Detection | NLP | Naive Bayes | ✅ Completed |
-| **04** | Handwritten Digit Classification | Deep Learning | PyTorch/TensorFlow | ✅ Completed |
-| **05** | Weather Image Recognition | Computer Vision | CNN, PyTorch | 🔲 Planned |
+| **04** | Handwritten Digit Classification | Deep Learning | PyTorch | ✅ Completed |
+| **05** | Weather Image Recognition | Computer Vision | CNN, PyTorch | ✅ Completed |
 | **06** | Customer Segmentation | Clustering | K-Means, HDBSCAN | 🔲 Planned |
 | **07** | Twitter Sentiment Analysis | NLP | Logistic Regression, BERT, RoBERTa | 🔲 Planned |
 | **08** | Bone Fracture Detection | Object Detection | YOLO, PyTorch/TensorFlow | 🔲 Planned |
@@ -75,7 +75,7 @@ The projects are organized progressively, starting with fundamental machine lear
 - **Languages:** Python
 - **Data & Math:** NumPy, Pandas
 - **Visualization:** Matplotlib, Seaborn
-- **ML & DL:** Scikit-learn, XGBoost, PyTorch/TensorFlow, OpenCV
+- **ML & DL:** Scikit-learn, XGBoost, PyTorch, OpenCV
 - **Specialized:** Hugging Face Transformers, Librosa
 </details>
 
