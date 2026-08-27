@@ -16,7 +16,7 @@ The projects are organized progressively, starting with fundamental machine lear
 | **04** | Handwritten Digit Classification | Deep Learning | Neural Network, PyTorch | ✅ Completed |
 | **05** | Weather Image Recognition | Computer Vision | CNN, PyTorch | ✅ Completed |
 | **06** | Customer Segmentation | Clustering | K-Means | ✅ Completed |
-| **07** | Twitter Sentiment Analysis | NLP | Logistic Regression, BERT, RoBERTa | 🔲 Planned |
+| **07** | Twitter Sentiment Analysis | NLP | Logistic Regression | ✅ Completed |
 | **08** | Bone Fracture Detection | Object Detection | YOLO, PyTorch | 🔲 Planned |
 | **09** | Music Genre Classification | Audio AI | CNN, LSTM, Librosa | 🔲 Planned |
 | **10** | YouTube Video Classification | Video AI | CNN, LSTM | 🔲 Planned |
@@ -59,7 +59,6 @@ The projects are organized progressively, starting with fundamental machine lear
 - Text Preprocessing & TF-IDF
 - Sentiment Analysis
 - Word Embeddings
-- Transformers (BERT / RoBERTa)
 </details>
 
 <details>
