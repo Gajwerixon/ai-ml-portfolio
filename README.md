@@ -17,7 +17,7 @@ The projects are organized progressively, starting with fundamental machine lear
 | **05** | Weather Image Recognition | Computer Vision | CNN, PyTorch | ✅ Completed |
 | **06** | Customer Segmentation | Clustering | K-Means | ✅ Completed |
 | **07** | Twitter Sentiment Analysis | NLP | Logistic Regression | ✅ Completed |
-| **08** | Bone Fracture Detection | Object Detection | YOLO, PyTorch | 🔲 Planned |
+| **08** | Road Sign Detection | Object Detection | YOLO | 🔲 Planned |
 | **09** | Music Genre Classification | Audio AI | CNN, LSTM, Librosa | 🔲 Planned |
 | **10** | YouTube Video Classification | Video AI | CNN, LSTM | 🔲 Planned |
 | **11** | Human Face Generation | Generative AI | GAN, PyTorch | 🔲 Planned |
@@ -97,7 +97,7 @@ ai-ml-portfolio/
 ├── 05_weather_image_recognition/
 ├── 06_customer_segmentation/
 ├── 07_twitter_sentiment_analysis/
-├── 08_bone_fracture_detection/
+├── 08_road_sign_detection/
 ├── 09_music_genre_classification/
 ├── 10_youtube_video_classification/
 ├── 11_human_face_generation/
