@@ -13,14 +13,14 @@ The projects are organized progressively, starting with fundamental machine lear
 | **01** | Student Score Prediction | Regression | Python, Pandas, Scikit-learn | ✅ Completed |
 | **02** | Titanic Survival Prediction | Classification | Decision Tree, Random Forest | ✅ Completed |
 | **03** | Spam Detection | NLP | Naive Bayes | ✅ Completed |
-| **04** | Handwritten Digit Classification | Deep Learning | PyTorch | ✅ Completed |
+| **04** | Handwritten Digit Classification | Deep Learning | Neural Network, PyTorch | ✅ Completed |
 | **05** | Weather Image Recognition | Computer Vision | CNN, PyTorch | ✅ Completed |
-| **06** | Customer Segmentation | Clustering | K-Means, HDBSCAN | 🔲 Planned |
+| **06** | Customer Segmentation | Clustering | K-Means | ✅ Completed |
 | **07** | Twitter Sentiment Analysis | NLP | Logistic Regression, BERT, RoBERTa | 🔲 Planned |
-| **08** | Bone Fracture Detection | Object Detection | YOLO, PyTorch/TensorFlow | 🔲 Planned |
+| **08** | Bone Fracture Detection | Object Detection | YOLO, PyTorch | 🔲 Planned |
 | **09** | Music Genre Classification | Audio AI | CNN, LSTM, Librosa | 🔲 Planned |
 | **10** | YouTube Video Classification | Video AI | CNN, LSTM | 🔲 Planned |
-| **11** | Human Face Generation | Generative AI | GAN, PyTorch/TensorFlow | 🔲 Planned |
+| **11** | Human Face Generation | Generative AI | GAN, PyTorch | 🔲 Planned |
 | **12** | Game Recommendation System | Recommendation Systems | Collaborative & Content-Based Filtering | 🔲 Planned |
 
 ---
@@ -32,7 +32,7 @@ The projects are organized progressively, starting with fundamental machine lear
 
 - Linear Regression & Logistic Regression
 - Decision Trees & Random Forest
-- K-Means & HDBSCAN
+- K-Means
 - Naive Bayes
 </details>
 
@@ -82,8 +82,6 @@ The projects are organized progressively, starting with fundamental machine lear
 ---
 
 ## 📂 Repository Structure
-
-The repository is organized into individual projects. Each project follows a consistent structure:
 
 ```text
 ai-ml-portfolio/
