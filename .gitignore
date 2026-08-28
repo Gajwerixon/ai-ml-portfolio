@@ -35,3 +35,9 @@ Thumbs.db
 
 # Logs
 *.log
+
+# YOLO training outputs
+runs/
+
+# Model weights
+*.pt
