@@ -18,7 +18,7 @@ The projects are organized progressively, starting with fundamental machine lear
 | **06** | Customer Segmentation | Clustering | K-Means | ✅ Completed |
 | **07** | Twitter Sentiment Analysis | NLP | Logistic Regression | ✅ Completed |
 | **08** | Road Sign Detection | Object Detection | YOLO | ✅ Completed |
-| **09** | Music Genre Classification | Audio AI | CNN, LSTM, Librosa | 🔲 Planned |
+| **09** | Music Genre Classification | Audio AI | CNN, Librosa | ✅ Completed |
 | **10** | YouTube Video Classification | Video AI | CNN, LSTM | 🔲 Planned |
 | **11** | Human Face Generation | Generative AI | GAN, PyTorch | 🔲 Planned |
 | **12** | Game Recommendation System | Recommendation Systems | Collaborative & Content-Based Filtering | 🔲 Planned |
@@ -41,7 +41,8 @@ The projects are organized progressively, starting with fundamental machine lear
 
 - Neural Networks
 - CNN (Convolutional Neural Networks)
-- RNN & LSTM
+- YOLO (You Only Look Once)
+- LSTM (Long Short-Term Memory)
 - GAN (Generative Adversarial Networks)
 </details>
 
