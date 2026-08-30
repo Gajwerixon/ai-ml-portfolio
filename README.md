@@ -19,7 +19,7 @@ The projects are organized progressively, starting with fundamental machine lear
 | **07** | Twitter Sentiment Analysis | NLP | Logistic Regression | ✅ Completed |
 | **08** | Road Sign Detection | Object Detection | YOLO | ✅ Completed |
 | **09** | Music Genre Classification | Audio AI | CNN, Librosa | ✅ Completed |
-| **10** | YouTube Video Classification | Video AI | CNN, LSTM | 🔲 Planned |
+| **10** | YouTube Video Classification | Video AI | 3D CNN | ✅ Completed |
 | **11** | Human Face Generation | Generative AI | GAN, PyTorch | 🔲 Planned |
 | **12** | Game Recommendation System | Recommendation Systems | Collaborative & Content-Based Filtering | 🔲 Planned |
 
