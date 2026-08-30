@@ -42,7 +42,6 @@ The projects are organized progressively, starting with fundamental machine lear
 - Neural Networks
 - CNN (Convolutional Neural Networks)
 - YOLO (You Only Look Once)
-- LSTM (Long Short-Term Memory)
 - GAN (Generative Adversarial Networks)
 </details>
 
