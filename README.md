@@ -20,7 +20,7 @@ The projects are organized progressively, starting with fundamental machine lear
 | **08** | Road Sign Detection | Object Detection | YOLO | ✅ Completed |
 | **09** | Music Genre Classification | Audio AI | CNN, Librosa | ✅ Completed |
 | **10** | YouTube Video Classification | Video AI | 3D CNN | ✅ Completed |
-| **11** | Human Face Generation | Generative AI | GAN, PyTorch | 🔲 Planned |
+| **11** | Human Face Generation | Generative AI | GAN, PyTorch | ✅ Completed |
 | **12** | Game Recommendation System | Recommendation Systems | Collaborative & Content-Based Filtering | 🔲 Planned |
 
 ---
