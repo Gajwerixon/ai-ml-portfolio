@@ -1,0 +1,4 @@
+## Project Summary
+In this project, I built a movie recommendation system using Collaborative Filtering. I explored the MovieLens dataset, analyzed user ratings, and created a User × Movie rating matrix. I then used Cosine Similarity to measure the similarity between movies and built a function for movie-based recommendations.
+
+Finally, I added personalization by using users' ratings as weights, allowing the system to recommend movies based on individual user preferences. This project gave me a practical introduction to how recommendation systems work and how Collaborative Filtering can be used to create personalized recommendations.
