@@ -21,7 +21,7 @@ The projects are organized progressively, starting with fundamental machine lear
 | **09** | Music Genre Classification | Audio AI | CNN, Librosa | ✅ Completed |
 | **10** | YouTube Video Classification | Video AI | 3D CNN | ✅ Completed |
 | **11** | Human Face Generation | Generative AI | GAN, PyTorch | ✅ Completed |
-| **12** | Game Recommendation System | Recommendation Systems | Collaborative & Content-Based Filtering | 🔲 Planned |
+| **12** | Movie Recommendation System | Recommendation Systems | Collaborative Filtering | ✅ Completed |
 
 ---
 
@@ -101,4 +101,4 @@ ai-ml-portfolio/
 ├── 09_music_genre_classification/
 ├── 10_youtube_video_classification/
 ├── 11_human_face_generation/
-└── 12_game_recommendation_system/
+└── 12_movie_recommendation_system/
