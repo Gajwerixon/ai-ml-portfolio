@@ -65,7 +65,7 @@ The projects are organized progressively, starting with fundamental machine lear
 <summary><b>Other AI Domains</b></summary>
 
 - Audio & Video Classification
-- Recommendation Systems
+- Recommendation Systems (Collaborative Filtering)
 </details>
 
 <details>
