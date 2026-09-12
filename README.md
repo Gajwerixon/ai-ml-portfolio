@@ -22,6 +22,7 @@ The projects are organized progressively, starting with fundamental machine lear
 | **10** | YouTube Video Classification | Video AI | 3D CNN | ✅ Completed |
 | **11** | Human Face Generation | Generative AI | GAN, PyTorch | ✅ Completed |
 | **12** | Movie Recommendation System | Recommendation Systems | Collaborative Filtering | ✅ Completed |
+| **13** | Customer Churn Prediction | Classification | Logistic Regression, Decision Tree, Random Forest | In Progress |
 
 ---
 
