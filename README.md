@@ -23,6 +23,7 @@ The projects are organized progressively, starting with fundamental machine lear
 | **11** | Human Face Generation | Generative AI | GAN, PyTorch | ✅ Completed |
 | **12** | Movie Recommendation System | Recommendation Systems | Collaborative Filtering | ✅ Completed |
 | **13** | Customer Churn Prediction | Classification | Logistic Regression, Decision Tree, Random Forest, Gradient Boosting | ✅ Completed  |
+| **14** | Credit Card Fraud Detection | Classification | XGBoost, Isolation Forest/Autoenkoder, SMOTE |   In progress |
 
 ---
 
@@ -103,4 +104,5 @@ ai-ml-portfolio/
 ├── 10_youtube_video_classification/
 ├── 11_human_face_generation/
 ├── 12_movie_recommendation_system/
-└── 13_customer_churn_prediction/
+├── 13_customer_churn_prediction/
+└── 14_credit_card_fraud_detection/
