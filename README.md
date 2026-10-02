@@ -25,7 +25,7 @@ The projects are organized progressively, starting with fundamental machine lear
 | **13** | Customer Churn Prediction | Classification | Logistic Regression, Decision Tree, Random Forest, Gradient Boosting | ✅ Completed  |
 | **14** | Credit Card Fraud Detection | Classification | XGBoost, XGBoost + SMOTE, Isolation Forest | ✅ Completed |
 | **15** | Stock Price Prediction | Time Series | LSTM, GRU | ✅ Completed |
-| **16** | Sales Forecast | Time Series | LSTM, GRU | 🔜 In progress |
+| **16** | Sales Forecast | Time Series | LSTM, GRU | ✅ Completed |
 | **17** | Car Object Tracking | Computer Vision / Video AI | YOLO, ByteTrack/DeepSORT, OpenCV | 🔜 In progress |
 
 ---
